@@ -10,7 +10,7 @@ public class Pila_Arbol {
     char[] Cadena;
     int contador;
 
-    //Necesito usar POO para llamar a mi pila cuantas veces
+//Necesito usar POO para llamar a mi pila cuantas veces
     //lo necesite por ende
     Pila_Arbol(int longitud) {
         this.Longitud_cadenas = longitud;
